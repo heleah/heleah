@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Helena. Thanks for visiting my Github! ✨
+### Hi there 👋  My name is Helena. Thanks for visiting my Github! ✨
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helenahcodes&theme=algolia&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
