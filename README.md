@@ -1,7 +1,7 @@
 ### Hi there 👋  My name is Helena. Thanks for visiting my Github! ✨
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heleah&theme=algolia&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heleah&theme=algolia&hide=stars&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heleah&show_icons=true&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
